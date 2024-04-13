@@ -1,7 +1,0 @@
-1. javascript is a high level,interpreted programmimg language used for web development.
-
-3./*
-  */
-  
-9.loose equality operator compare two values 
-  strict equality operator compare two values without type
